@@ -1,4 +1,4 @@
- 
+
 -- peripheral identification
 --
 function periphSearch(type)
